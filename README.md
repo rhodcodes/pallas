@@ -1,1 +1,3 @@
-# pallas
+# Pallas
+
+Exercise db and workout logger
